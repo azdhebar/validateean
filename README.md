@@ -2,9 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/azdhebar/validate-ean.svg?style=flat-square)](https://packagist.org/packages/azdhebar/validate-ean)
 [![Total Downloads](https://img.shields.io/packagist/dt/azdhebar/validate-ean.svg?style=flat-square)](https://packagist.org/packages/azdhebar/validate-ean)
-![GitHub Actions](https://github.com/azdhebar/validate-ean/actions/workflows/main.yml/badge.svg)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
 ## Installation
 
@@ -53,7 +51,3 @@ If you discover any security related issues, please email azdhebarpersonal@gmail
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Laravel Package Boilerplate
-
-This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).
